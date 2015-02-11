@@ -1,1 +1,9 @@
 // Daniel Davis, Chess_board, creates a playing board with a black/red pattern//
+
+var board = [7,7]; // creates a two dimensional array to be used for a playing board 8x8
+
+//put in code about display//
+
+//put in code about tests or filters//
+
+
